@@ -1,4 +1,4 @@
-## 🌐 Socials:
+## 🌐 Find Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AbdelbassetMg/) [![Instagram](https://img.shields.io/badge/Instagram-%23FD1D1D.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdelbasset_mg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelbasset-meghraoui-4752a01b7/)
 [![LinkedIn](https://img.shields.io/badge/Behance-%230067ff.svg?logo=behance&logoColor=white)](https://www.linkedin.com/in/abdelbasset-meghraoui-4752a01b7/)
 <!---
