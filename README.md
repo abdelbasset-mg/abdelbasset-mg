@@ -7,7 +7,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelbasset-mg&show_icons=true&locale=en&layout=compact" alt="abdelbasset-mg" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelbasset-mg&show_icons=true&locale=en" alt="abdelbasset-mg" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelbasset-mg&" alt="abdelbasset-mg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelbasset-m&" alt="abdelbasset-mg" /></p>
 <!---
 abdelbasset-mg/abdelbasset-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
