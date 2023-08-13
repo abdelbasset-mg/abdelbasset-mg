@@ -4,6 +4,8 @@
 
 ## 💻 Familiar With :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![ASSEMBLY](https://img.shields.io/badge/Assembly-x86-%231572B6.svg?style=flat&logo=asm&logoColor=white)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelbasset-mg&show_icons=true&locale=en&layout=compact" alt="abdelbasset-mg" /></p>
 <!---
 abdelbasset-mg/abdelbasset-mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
